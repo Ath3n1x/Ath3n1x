@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ath3n1x
 - 👀 I’m interested in Cyber sec. CTFing with [TeamShakti](https://github.com/Team-Shakti).
 - 🌱 I’m currently learning Computer science and engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me athenix05@gmail.com
 
 <!---
